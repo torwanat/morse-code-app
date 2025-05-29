@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MorseCodeTorch</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
+    <string name="text_to_encode">Text to encode</string>
+    <string name="text_to_decode">Text to decode</string>
+    <string name="kodowanie">KODOWANIE</string>
+    <string name="clear">clear</string>
+    <string name="dekodowanie">DEKODOWANIE</string>
+    <string name="signal">Signal</string>
+    <string name="stop_signal">Stop signal</string>
+</resources>
